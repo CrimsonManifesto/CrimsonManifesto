@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Angular & MongoDB**
 - 🎯 Future Goals: **Dive deeper into full-stack development and mobile development**
-- 🎨 Outside of coding: **I enjoy reading tech blogs, books, cooking and playing piano**
+- 🎨 Outside of coding: **I enjoy reading tech blogs, books, drinking tea, cooking and playing piano**
 - 📫 How to reach me **cuonglinh.ng@gmail.com**
 - 💬 I'm available for DMs.
 
@@ -107,11 +107,11 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ncuonglinh&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="ncuonglinh" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CrimsonManifesto&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="ncuonglinh" />
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NCuongLinh&theme=tokyonight&hide_border=true&langs_count=10&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrimsonManifesto&theme=tokyonight&hide_border=true&langs_count=10&hide=jupyter%20notebook)
 
 
 
