@@ -13,9 +13,8 @@
 
 - 🌱 I’m currently learning **Angular & MongoDB**
 - 🎯 Future Goals: **Dive deeper into full-stack development and mobile development**
-- 🎨 Outside of coding: **I enjoy reading tech blogs, books, drinking tea, cooking and playing piano**
+- 🎨 Outside of coding: **I enjoy reading tech blogs, books, traveling, cooking and playing piano**
 - 📫 How to reach me **cuonglinh.ng@gmail.com**
-- 💬 I'm available for DMs.
 
 ✨ I hope we can learn something from each other ✨
 <hr>
@@ -57,6 +56,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
          alt="nodejs" width="40" height="40"/>
   </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-909x1024-ig4gm9k7.png" alt="express" width="40" height="40"/> 
+  </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
          alt="python" width="40" height="40"/>
@@ -65,14 +67,25 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" 
          alt="dotnet" width="40" height="40"/>
   </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" 
-         alt="android" width="40" height="40"/>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="nextjs" width="40" height="40"/> 
+  </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+  </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
          alt="figma" width="40" height="40"/>
   </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" 
          alt="firebase" width="40" height="40"/>
@@ -81,6 +94,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
          alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
          alt="react" width="40" height="40"/>
@@ -105,6 +121,17 @@
     <img src="https://epss.ucla.edu/static/bootstrap-5.2.0/site/static/docs/5.2/assets/brand/bootstrap-social-logo.png" 
          alt="bootstrap" width="40" height="40"/>
   </a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" 
+         alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+  </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CrimsonManifesto&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="ncuonglinh" />
