@@ -11,7 +11,7 @@
 
 <h3>I'm a student at VNU-HCM UIT (University of Information Technology) in HCM City. I have a passion in developing beautiful websites.</h3>
 
-- 🌱 I’m currently learning **Angular & MongoDB**
+- 🌱 I’m currently learning **Angular, MongoDB, Next.Js**
 - 🎯 Future Goals: **Dive deeper into full-stack development and mobile development**
 - 🎨 Outside of coding: **I enjoy reading tech blogs, books, traveling, cooking and playing piano**
 - 📫 How to reach me **cuonglinh.ng@gmail.com**
