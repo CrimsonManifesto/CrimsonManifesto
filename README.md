@@ -19,13 +19,13 @@
   <a href="mailto:cuonglinh.ng@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.whatsapp.com/" target="_blank">
+  <a href="	https://wa.me/84788712498" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a href="https://www.messenger.com/t/100069387273006" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
-  <a href="https://web.wechat.com/" target="_blank">
+  <a href="weixin://dl/chat?phulangsa" target="_blank">
     <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white">
   </a>
   <a href="https://t.me/ManifestoCrimson" target="_blank">
