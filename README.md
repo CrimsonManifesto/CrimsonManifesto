@@ -129,16 +129,16 @@
 
 <table>
   <tr>
-    <td valign="top" width="65%">
+    <td valign="top" width="68%">
       <img 
         src="https://streak-stats.demolab.com?user=crimsonmanifesto&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" 
         width="100%" 
         alt="streak graph"  
       />
     </td>
-    <td valign="top" width="25%">
+    <td valign="top" width="22%">
       <img 
-        src="https://i.imgur.com/AzGf1OV.png" 
+        src="https://i.imgur.com/Em2uPH3.jpeg" 
         width="100%" 
         alt="custom image"  
       />
