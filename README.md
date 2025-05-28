@@ -22,9 +22,6 @@
   <a href="	https://wa.me/84788712498" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://www.messenger.com/t/100069387273006" target="_blank">
-    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
-  </a>
   <a href="weixin://dl/chat?phulangsa" target="_blank">
     <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white">
   </a>
@@ -34,10 +31,7 @@
   <a href="https://line.me/ti/p/hakbachvothuong" target="_blank">
     <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/crimson-manifesto" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+
 
 
 ## 🛠️ Tech Stack
@@ -76,10 +70,7 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="nextjs" width="40" height="40"/> 
   </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> 
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://epss.ucla.edu/static/bootstrap-5.2.0/site/static/docs/5.2/assets/brand/bootstrap-social-logo.png" 
          alt="bootstrap" width="40" height="40"/>
   </a>
@@ -96,9 +87,6 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" 
